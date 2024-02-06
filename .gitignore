@@ -7,9 +7,6 @@ parcel-cache
 build
 /build/
 .build
-dist
-/dist/
-.dist
 task
 /task/
 .task
